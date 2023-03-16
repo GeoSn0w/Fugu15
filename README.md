@@ -5,7 +5,7 @@
 Fugu15 is a semi-untethered permasigned jailbreak for iOS 15.  
 It contains a code-signing bypass, kernel exploit, kernel PAC bypass and PPL bypass.  
 Additionally, it can be installed via Safari, i.e. a computer is not required, except for a Web Server that hosts Fugu15.  
-Please note that Fugu15 does not support tweaks (no tweak injection library).
+<a href="https://github.com/opa334/Fugu15">Fugu15 Max developed by opa334 is here!</a>
 
 # Tested Devices and iOS Versions
 - iPhone Xs Max: iOS 15.4.1

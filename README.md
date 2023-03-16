@@ -1,4 +1,7 @@
-# Fugu15
+# Fugu15 Max
+
+<a href="https://idevicecentral.com/jailbreak-news/fugu15-max-jailbreak-being-developed-by-opa334-for-ios-15-0-15-4-1/">You can find the latest news about Fugu15 Max Jailbreak on our website.</a>
+
 Fugu15 is a semi-untethered permasigned jailbreak for iOS 15.  
 It contains a code-signing bypass, kernel exploit, kernel PAC bypass and PPL bypass.  
 Additionally, it can be installed via Safari, i.e. a computer is not required, except for a Web Server that hosts Fugu15.  
